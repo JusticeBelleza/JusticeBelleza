@@ -1,20 +1,48 @@
-# Welcome to my Profile! 🎮👾
+# Hey, I'm Justice! 👋
 
-Hi there! I'm Justice, a passionate gamer and developer with a deep love for RPG games. Here's where I merge my two worlds: gaming and coding!
+<p>
+My journey has been a unique one, starting in the world of hospitality and now leveling up in the realm of technology. I combine the people-first mindset from my hospitality background with a passion for building elegant, user-friendly solutions in code.
+</p>
 
-## 🎲 About Me
-- 🎮 **Gamer at Heart:** I've been enchanted by the world of RPG games since I was young. Exploring new worlds, experiencing compelling stories, and tackling challenging quests is what I live for!
-- 💻 **Developer Skills:** Equipped with a diverse set of programming languages like HTML, CSS, JavaScript, PHP, MySQL, and Python. I love creating interactive web experiences and diving into data-driven projects.
+---
 
-## 💼 What I'm Working On
-- **Hospital Server Maintenance:** Currently, I'm maintaining the hospital server using Python, ensuring robust performance and reliable data management.
-- Constantly refining my web development skills, especially in JavaScript and PHP.
+### My Character Sheet 📜
 
-## 📚 My Favorite RPG Games
-- Dota 2
-- Flyff Universe
+* 🎮 **Class:** Career-Changer | Developer | Gamer
+* 🎓 **Education & Training:**
+    * Bachelor of Science in Information Technology (Graduating Student)
+    * Bachelor of Science in Hospitality Management (Graduate)
+* 🎯 **Main Quest:** Conquering the final challenges of my BSIT degree and preparing to launch my career in tech.
+* 🌱 **Side Quests:** * Building a strong portfolio of web and software development projects.
+    * Actively seeking an internship or my first full-time role as a developer.
+* 🕹️ **Currently Grinding:** Dota 2 & Flyff Universe
 
-## 🤝 Connect with Me
-- **Email:** justiceprimicias5@gmail.com
+---
 
-Thanks for stopping by!
+### My Skill Tree 🌳
+
+<p align="left">
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
+  <a href="https://www.php.net" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg" alt="php" width="40" height="40"/></a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
+</p>
+
+---
+
+### My GitHub Stats 📊
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight" alt="Justice's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+---
+
+### Let's Party Up! 🤝
+
+<p align="center">
+  <a href="mailto:justiceprimicias5@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  </p>
