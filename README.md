@@ -86,7 +86,9 @@
 | Component | Equipped Item |
 | :--- | :--- |
 | **🧠 CPU** | AMD Ryzen 5 5600X |
+| **mb Mobo** | B550M WiFi |
 | **🎮 GPU** | NVIDIA GeForce RTX 4060 |
+| **⚡ PSU** | 750W 80+ Gold |
 | **💾 RAM** | 32GB |
 | **💿 Storage** | 1TB SSD |
 | **🪟 OS** | Windows |
