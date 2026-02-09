@@ -80,20 +80,22 @@
 | Component | Equipped Item |
 | :--- | :--- |
 | **🧠 CPU** | AMD Ryzen 5 5600X |
-| **🔌 Mobo** | B550M WiFi |
-| **🎮 GPU** | NVIDIA GeForce RTX 4060 |
-| **⚡ PSU** | 750W 80+ Gold |
+| **🔌 Mobo** | MSI B550M PRO-VDH WIFI AMD Motherboard |
+| **🎮 GPU** | MSI GeForce RTX 4060 Ti Ventus 2X Black 8GB OC GDDR6 Graphics Card |
+| **❄️ Cooler** | MSI MAG CoreLiquid M240 |
+| **⚡ PSU** | MSI MAG A750GL PCIe 5.1 80+ Gold 750W Full Modular Power Supply |
 | **💾 RAM** | 32GB |
 | **💿 Storage** | 1TB SSD |
-| **🪟 OS** | Windows |
+| **🪟 OS** | Windows 11 Pro |
 
 ### 🖱️ Peripherals
 | Slot | Equipped Item |
 | :--- | :--- |
-| **🖥️ Monitor** | ASUS ROG Strix 27" |
+| **🖥️ Monitor** | ASUS ROG Strix 24" |
 | **🖱️ Mouse** | Logitech G Pro X Superlight |
-| **⌨️ Keyboard** | Aula 75 |
-| **🎧 Headset** | Razer Chroma |
+| **⌨️ Keyboard** | Aula F75 |
+| **🎧 Headset** | Razer Baraccuda X Chroma |
+| **🎤 Mic** | Ugreen Microphone |
 | **🔊 Speaker** | Xiaomi Desktop Speaker |
 
 </details>
