@@ -57,8 +57,8 @@
 <div align="center">
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JusticeBelleza&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JusticeBelleza&layout=compact&theme=tokyonight&hide_border=true" />
 </a>
 
 </div>
@@ -78,6 +78,8 @@
 
 </div>
 
+---
+
 <details>
 <summary>🎒 My Inventory (Gear & Setup)</summary>
 <br>
@@ -86,7 +88,7 @@
 | Component | Equipped Item |
 | :--- | :--- |
 | **🧠 CPU** | AMD Ryzen 5 5600X |
-| **mb Mobo** | B550M WiFi |
+| **🔌 Mobo** | B550M WiFi |
 | **🎮 GPU** | NVIDIA GeForce RTX 4060 |
 | **⚡ PSU** | 750W 80+ Gold |
 | **💾 RAM** | 32GB |
