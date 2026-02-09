@@ -5,7 +5,6 @@
 ### ⚔️ Developer | Gamer | Tech Solutions 🛡️
 *Crafting elegant, user-friendly solutions with a people-first mindset.*
 
-
 <br />
 
 </div>
@@ -49,14 +48,6 @@
 
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 
-</div>
-
----
-
-## 🏆 Achievements
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=JusticeBelleza&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
 </div>
 
 ---
