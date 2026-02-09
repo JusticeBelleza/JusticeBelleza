@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hey, I'm Justice! 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Justice%20Belleza&fontSize=70&fontAlign=50&animation=fadeIn&fontColor=ffffff&desc=Developer%20%7C%20Gamer%20%7C%20IT%20Consultant&descAlign=50&descSize=20" width="100%"/>
 
 ### Hospitality ➔ Technology
 *Crafting elegant, user-friendly solutions with a people-first mindset.*
@@ -58,7 +58,6 @@
 
 <a href="https://github.com/JusticeBelleza">
   <img src="https://github-readme-stats.vercel.app/api?username=JusticeBelleza&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JusticeBelleza&layout=compact&theme=tokyonight&hide_border=true" />
 </a>
 
 </div>
@@ -69,12 +68,21 @@
 
 <div align="center">
 
-<a href="mailto:your-email@example.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+<a href="mailto:justice.belleza@icloud.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=icloud&logoColor=white" alt="Email" />
 </a>
-<a href="https://linkedin.com/in/your-linkedin">
+
+<a href="https://www.linkedin.com/in/justice-belleza-77292a245/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
+
+<a href="https://wa.me/639165648797">
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+</a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=JusticeBelleza&label=PROFILE+VIEWS&style=for-the-badge&color=blueviolet" alt="Profile Views" />
 
 </div>
 
