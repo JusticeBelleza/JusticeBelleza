@@ -1,11 +1,10 @@
 <div align="center">
 
-# 🎮 LEVEL UP: Justice Belleza 👾
+# 🎮 Justice Belleza 👾
 
 ### ⚔️ Developer | Gamer | Tech Solutions 🛡️
 *Crafting elegant, user-friendly solutions with a people-first mindset.*
 
-<img src="https://img.shields.io/badge/XP-██████████████-purple?style=flat&labelColor=black" alt="XP Bar" />
 
 <br />
 
