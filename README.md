@@ -77,3 +77,27 @@
 </a>
 
 </div>
+
+<details>
+<summary>🎒 My Inventory (Gear & Setup)</summary>
+<br>
+
+### 🖥️ System Unit
+| Component | Equipped Item |
+| :--- | :--- |
+| **🧠 CPU** | AMD Ryzen 5 5600X |
+| **🎮 GPU** | NVIDIA GeForce RTX 4060 |
+| **💾 RAM** | 32GB |
+| **💿 Storage** | 1TB SSD |
+| **🪟 OS** | Windows |
+
+### 🖱️ Peripherals
+| Slot | Equipped Item |
+| :--- | :--- |
+| **🖥️ Monitor** | ASUS ROG Strix 27" |
+| **🖱️ Mouse** | Logitech G Pro X Superlight |
+| **⌨️ Keyboard** | Aula 75 |
+| **🎧 Headset** | Razer Chroma |
+| **🔊 Speaker** | Xiaomi Desktop Speaker |
+
+</details>
