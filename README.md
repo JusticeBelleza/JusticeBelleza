@@ -1,13 +1,13 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=240&section=header&text=Justice%20Belleza&fontSize=70&fontAlign=50&animation=fadeIn&fontColor=ffffff&desc=Developer%20%20%20%20%20%20%7C%20%20%20%20%20%20Gamer%20%20%20%20%20%20%7C%20%20%20%20%20%20Tech%20Solutions&descAlign=50&descSize=20" width="100%"/>
+# 🎮 LEVEL UP: Justice Belleza 👾
 
-<br />
-
-### Hospitality ➔ Technology
+### ⚔️ Developer | Gamer | Tech Solutions 🛡️
 *Crafting elegant, user-friendly solutions with a people-first mindset.*
 
----
+<img src="https://img.shields.io/badge/XP-██████████████-purple?style=flat&labelColor=black" alt="XP Bar" />
+
+<br />
 
 </div>
 
@@ -72,10 +72,6 @@
 
 <a href="https://www.linkedin.com/in/justice-belleza-77292a245/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-
-<a href="https://wa.me/639165648797">
-  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
 </a>
 
 <br><br>
