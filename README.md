@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Justice%20Belleza&fontSize=70&fontAlign=50&animation=fadeIn&fontColor=ffffff&desc=Developer%20%7C%20Gamer%20%7C%20IT%20Consultant&descAlign=50&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=240&section=header&text=Justice%20Belleza&fontSize=70&fontAlign=50&animation=fadeIn&fontColor=ffffff&desc=Developer%20%7C%20Gamer%20%7C%20IT%20Consultant&descAlign=50&descSize=20" width="100%"/>
 
 ### Hospitality ➔ Technology
 *Crafting elegant, user-friendly solutions with a people-first mindset.*
