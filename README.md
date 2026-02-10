@@ -87,7 +87,7 @@
 | :--- | :--- |
 | **🧠 CPU** | AMD Ryzen 5 5600X |
 | **🔌 Mobo** | MSI B550M PRO-VDH WIFI AMD Motherboard |
-| **🎮 GPU** | MSI GeForce RTX 4060 Ti Ventus 2X Black 8GB OC GDDR6 Graphics Card |
+| **🎮 GPU** | MSI GeForce RTX 4070 Ti Ventus 3X 12GB OC GDDR6 Graphics Card |
 | **❄️ Cooler** | MSI MAG CoreLiquid M240 |
 | **⚡ PSU** | MSI MAG A750GL PCIe 5.1 80+ Gold 750W Full Modular Power Supply |
 | **💾 RAM** | 32GB |
