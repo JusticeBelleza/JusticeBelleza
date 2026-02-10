@@ -39,12 +39,8 @@
 🗄️ Database
 <div align="center"> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" /> </div>
 
-🧩 ORMs & Data Tools
-<div align="center"> <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" /> <img src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=sequelize&logoColor=white" /> </div>
-
 🛠️ Tools & Platforms
 <div align="center"> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/WordPress-117AC9?style=for-the-badge&logo=WordPress&logoColor=white" /> <img src="https://img.shields.io/badge/Shopify-95BF47?style=for-the-badge&logo=shopify&logoColor=white" /> </div>
----
 
 ## 🤝 Let's Party Up!
 
