@@ -21,7 +21,7 @@
 
 ---
 
-### 🏅 Certifications & Eligibility
+### 🏅 Eligibility
 - **Career Service Professional Eligibility** — *Civil Service Commission (Philippines)*
 
 ## 🗺️ Quest Log
