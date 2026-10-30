@@ -59,7 +59,7 @@
 ### 📊 Top Languages
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JusticeBelleza&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JusticeBelleza&layout=compact&theme=radical&hide_border=true&cache_seconds=86400&v=1" alt="Top Languages" />
 </div>
 
 ---
