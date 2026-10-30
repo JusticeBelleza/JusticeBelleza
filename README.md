@@ -22,6 +22,7 @@
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 
 **Backend & BaaS** ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
+![Fastify](https://img.shields.io/badge/Fastify-000000?style=flat-square&logo=fastify&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
@@ -32,6 +33,8 @@
 **Tools & Platforms** ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-117AC9?style=flat-square&logo=WordPress&logoColor=white)
 ![Shopify](https://img.shields.io/badge/Shopify-95BF47?style=flat-square&logo=shopify&logoColor=white)
+![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white)
+![Sentry](https://img.shields.io/badge/Sentry-362D59?style=flat-square&logo=sentry&logoColor=white)
 
 ---
 
@@ -50,19 +53,19 @@
 <br>
 
 **System Specifications**
-* **CPU:** AMD Ryzen 5 5600X
-* **GPU:** MSI GeForce RTX 4070 Ti Ventus 3X 12GB
-* **Motherboard:** MSI B550M PRO-VDH WIFI
-* **RAM:** 32GB
-* **Storage:** 1TB SSD
-* **Cooling:** MSI MAG CoreLiquid M240
-* **PSU:** MSI MAG A750GL PCIe 5.1 80+ Gold
-* **OS:** Windows 11 Pro
+- **CPU:** AMD Ryzen 5 5600X
+- **GPU:** MSI GeForce RTX 4070 Ti Ventus 3X 12GB
+- **Motherboard:** MSI B550M PRO-VDH WIFI
+- **RAM:** 32GB
+- **Storage:** 1TB SSD
+- **Cooling:** MSI MAG CoreLiquid M240
+- **PSU:** MSI MAG A750GL PCIe 5.1 80+ Gold
+- **OS:** Windows 11 Pro
 
 **Peripherals**
-* **Monitor:** ASUS ROG Strix 24"
-* **Mouse:** Logitech G Pro X Superlight
-* **Keyboard:** Aula F75
-* **Audio:** Razer Barracuda X Chroma (Headset) | Ugreen (Microphone) | Xiaomi Desktop (Speakers)
+- **Monitor:** ASUS ROG Strix 24"
+- **Mouse:** Logitech G Pro X Superlight
+- **Keyboard:** Aula F75
+- **Audio:** Razer Barracuda X Chroma (Headset) | Ugreen (Microphone) | Xiaomi Desktop (Speakers)
 
 </details>
