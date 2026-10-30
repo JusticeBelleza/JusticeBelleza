@@ -50,15 +50,14 @@
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![Antigravity IDE](https://img.shields.io/badge/Antigravity_IDE-1A1A1A?style=flat-square)
 
+**Design & Video**  
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat-square&logo=Canva&logoColor=white)
+![CapCut](https://img.shields.io/badge/CapCut-000000?style=flat-square&logo=capcut&logoColor=white)
+
 ---
 
-### 📊 GitHub Stats
+### 📊 Top Languages
 
-<div align="center">
-  <img height="195" src="https://github-readme-stats.vercel.app/api?username=JusticeBelleza&show_icons=true&theme=radical&hide_border=true" alt="Justice's GitHub Stats" />
-  <img height="195" src="https://github-readme-streak-stats.herokuapp.com/?user=JusticeBelleza&theme=radical&hide_border=true" alt="Justice's GitHub Streak" />
-</div>
-<br>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JusticeBelleza&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </div>
