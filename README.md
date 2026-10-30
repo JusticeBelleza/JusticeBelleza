@@ -56,14 +56,6 @@
 
 ---
 
-### 📊 Top Languages
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JusticeBelleza&layout=compact&theme=radical&hide_border=true&cache_seconds=86400&v=1" alt="Top Languages" />
-</div>
-
----
-
 ### 📫 Let's Connect
 
 <a href="mailto:justice.belleza@icloud.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=icloud&logoColor=white" /></a>
