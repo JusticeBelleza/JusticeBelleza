@@ -9,8 +9,36 @@
 
 - 🎓 **Education:** Bachelor of Science in Information Technology (BSIT) — approved for graduation. Previously earned a degree in Hospitality Management, bringing a unique, customer-first perspective to software solutions.
 - 💼 **Current Focus:** Assisting businesses and individuals as a freelance IT Consultant, delivering practical, reliable, and user-focused technology solutions.
-- 🏅 **Certifications:** Career Service Professional Eligibility (Civil Service Commission, Philippines).
+- 🏅 **Civil Service Eligibility:** Career Service Professional Eligibility (Civil Service Commission, Philippines).
 - 🎮 **Off-Screen:** When I'm not coding, I'm usually grinding ranks in Dota 2, climbing in Valorant, or unwinding with Flyff Universe.
+
+---
+
+### 🚀 Featured Projects
+
+#### Zippi Delivery
+A multi-platform local delivery ecosystem featuring customer and rider mobile applications, merchant management, and an administrative dashboard.
+
+**Technologies:** React Native, Expo, TypeScript, Fastify, Supabase, PostgreSQL, Mapbox.
+
+**Status:** In Development
+
+#### [Tricore Medical Supply](https://tricoremedicalsupply.com)
+A business management platform featuring B2B order processing, inventory management, warehouse fulfillment, and driver delivery operations.
+
+**Technologies:** React, TypeScript, Vite, Supabase, PostgreSQL, PWA.
+
+**Status:** Production
+
+#### ClearTrack
+A capitol-wide document tracking and chain-of-custody system designed for the Provincial Government of Abra. Features document routing, inter-office custody transfers, accountability tracking, QR code scanning, audit trails, and ARTA compliance monitoring.
+
+**Technologies:** React, Vite, Supabase, PostgreSQL, Zustand, TanStack Query, PWA, IndexedDB.
+
+#### ABTCRS — Animal Bite Treatment Center Reporting System
+A public health reporting system supporting patient data collection, monitoring, and report generation. Contributed to system maintenance, performance optimization, data integrity, and DOH reporting compliance updates.
+
+**Status:** Completed Maintenance and Handover
 
 ---
 
@@ -22,12 +50,13 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-
 **Mobile Development**  
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)
+![Expo Router](https://img.shields.io/badge/Expo_Router-000020?style=flat-square&logo=expo&logoColor=white)
 ![NativeWind](https://img.shields.io/badge/NativeWind-38BDF8?style=flat-square&logo=tailwindcss&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white)
+![Mapbox](https://img.shields.io/badge/Mapbox-000000?style=flat-square&logo=mapbox&logoColor=white)
 
 **Frontend Development**  
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
@@ -35,6 +64,7 @@
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white)
 ![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=flat-square&logo=shadcnui&logoColor=white)
 ![React Router DOM](https://img.shields.io/badge/React_Router_DOM-CA4245?style=flat-square&logo=reactrouter&logoColor=white)
+![PWA](https://img.shields.io/badge/PWA-5A0FC8?style=flat-square&logo=pwa&logoColor=white)
 
 **Backend & APIs**  
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=nodedotjs&logoColor=white)
@@ -43,11 +73,13 @@
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 ![Deno](https://img.shields.io/badge/Deno-000000?style=flat-square&logo=deno&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Zod](https://img.shields.io/badge/Zod-3E67B1?style=flat-square&logo=zod&logoColor=white)
 
 **Databases & Real-Time Systems**  
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![IndexedDB](https://img.shields.io/badge/IndexedDB-475569?style=flat-square)
 
 **State Management & Reporting**  
 ![TanStack React Query](https://img.shields.io/badge/TanStack_React_Query-FF4154?style=flat-square&logo=reactquery&logoColor=white)
@@ -70,11 +102,13 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 ![Supabase CLI](https://img.shields.io/badge/Supabase_CLI-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![npm](https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white)
 
 **Testing & Monitoring**  
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square)
 ![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white)
 ![React Testing Library](https://img.shields.io/badge/React_Testing_Library-E33332?style=flat-square&logo=testinglibrary&logoColor=white)
+![Maestro](https://img.shields.io/badge/Maestro-635BFF?style=flat-square)
 ![Sentry](https://img.shields.io/badge/Sentry-362D59?style=flat-square&logo=sentry&logoColor=white)
 
 **IDEs & Development Tools**  
@@ -91,6 +125,16 @@
 
 ---
 
+### 🏗️ Software Architecture
+
+![Modular Architecture](https://img.shields.io/badge/Modular_Architecture-475569?style=flat-square)
+![Monorepo Architecture](https://img.shields.io/badge/Monorepo_Architecture-475569?style=flat-square)
+![Client Server Architecture](https://img.shields.io/badge/Client_Server_Architecture-475569?style=flat-square)
+![RBAC](https://img.shields.io/badge/Role_Based_Access_Control-475569?style=flat-square)
+![Responsive Design](https://img.shields.io/badge/Responsive_Design-475569?style=flat-square)
+
+---
+
 ### 📋 Software Development Practices
 
 ![Development Planning](https://img.shields.io/badge/Development_Planning-475569?style=flat-square)
@@ -99,6 +143,9 @@
 ![Version Control](https://img.shields.io/badge/Version_Control-475569?style=flat-square)
 ![Software Testing](https://img.shields.io/badge/Software_Testing-475569?style=flat-square)
 ![Deployment Planning](https://img.shields.io/badge/Deployment_Planning-475569?style=flat-square)
+![Database Migrations](https://img.shields.io/badge/Database_Migrations-475569?style=flat-square)
+![API Integration](https://img.shields.io/badge/API_Integration-475569?style=flat-square)
+![AI Assisted Development](https://img.shields.io/badge/AI_Assisted_Development-475569?style=flat-square)
 
 ---
 
