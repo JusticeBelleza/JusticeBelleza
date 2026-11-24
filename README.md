@@ -1,48 +1,31 @@
 
-# Hi there 👋
+# Hi there
 
-**Full-Stack & Mobile Developer • IT Consultant • Tech Enthusiast**
-
----
-
-### 👨‍💻 About Me
-
-- 🎓 **Education:** Bachelor of Science in Information Technology (BSIT) — approved for graduation. Previously earned a degree in Hospitality Management, bringing a unique, customer-first perspective to software solutions.
-- 💼 **Current Focus:** Assisting businesses and individuals as a freelance IT Consultant, delivering practical, reliable, and user-focused technology solutions.
-- 🏅 **Civil Service Eligibility:** Career Service Professional Eligibility (Civil Service Commission, Philippines).
-- 🎮 **Off-Screen:** When I'm not coding, I'm usually grinding ranks in Dota 2, climbing in Valorant, or unwinding with Flyff Universe.
+**Full-Stack & Mobile Developer | IT Consultant | Tech Enthusiast**
 
 ---
 
-### 🚀 Featured Projects
+### About Me
 
-#### Zippi Delivery
-A multi-platform local delivery ecosystem featuring customer and rider mobile applications, merchant management, and an administrative dashboard.
-
-**Technologies:** React Native, Expo, TypeScript, Fastify, Supabase, PostgreSQL, Mapbox.
-
-**Status:** In Development
-
-#### [Tricore Medical Supply](https://tricoremedicalsupply.com)
-A business management platform featuring B2B order processing, inventory management, warehouse fulfillment, and driver delivery operations.
-
-**Technologies:** React, TypeScript, Vite, Supabase, PostgreSQL, PWA.
-
-**Status:** Production
-
-#### ClearTrack
-A capitol-wide document tracking and chain-of-custody system designed for the Provincial Government of Abra. Features document routing, inter-office custody transfers, accountability tracking, QR code scanning, audit trails, and ARTA compliance monitoring.
-
-**Technologies:** React, Vite, Supabase, PostgreSQL, Zustand, TanStack Query, PWA, IndexedDB.
-
-#### ABTCRS — Animal Bite Treatment Center Reporting System
-A public health reporting system supporting patient data collection, monitoring, and report generation. Contributed to system maintenance, performance optimization, data integrity, and DOH reporting compliance updates.
-
-**Status:** Completed Maintenance and Handover
+- **Education:** Bachelor of Science in Information Technology (BSIT) — approved for graduation. Previously earned a degree in Hospitality Management, combining technical knowledge with a customer-first approach.
+- **Current Focus:** Freelance IT Consultant focused on developing practical, reliable, and user-focused software solutions.
+- **Civil Service Eligibility:** Career Service Professional Eligibility (Civil Service Commission, Philippines).
+- **Interests:** Technology, software development, Dota 2, Valorant, and Flyff Universe.
 
 ---
 
-### 🛠️ Tech Stack
+### Featured Projects
+
+| Project | Description |
+|---|---|
+| **Zippi Delivery** | Multi-platform delivery ecosystem for customers, riders, merchants, and administrators. |
+| **Tricore Medical Supply** | B2B order management, inventory, warehouse fulfillment, and delivery management system. |
+| **ClearTrack** | Government document tracking, routing, custody management, and accountability system. |
+| **ABTCRS** | Animal Bite Treatment Center Reporting System. Contributed to system maintenance, optimization, and reporting compliance. |
+
+---
+
+### Tech Stack
 
 **Programming Languages & Web Technologies**  
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -63,7 +46,7 @@ A public health reporting system supporting patient data collection, monitoring,
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white)
 ![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=flat-square&logo=shadcnui&logoColor=white)
-![React Router DOM](https://img.shields.io/badge/React_Router_DOM-CA4245?style=flat-square&logo=reactrouter&logoColor=white)
+![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat-square&logo=reactrouter&logoColor=white)
 ![PWA](https://img.shields.io/badge/PWA-5A0FC8?style=flat-square&logo=pwa&logoColor=white)
 
 **Backend & APIs**  
@@ -82,7 +65,7 @@ A public health reporting system supporting patient data collection, monitoring,
 ![IndexedDB](https://img.shields.io/badge/IndexedDB-475569?style=flat-square)
 
 **State Management & Reporting**  
-![TanStack React Query](https://img.shields.io/badge/TanStack_React_Query-FF4154?style=flat-square&logo=reactquery&logoColor=white)
+![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=flat-square&logo=reactquery&logoColor=white)
 ![Zustand](https://img.shields.io/badge/Zustand-795548?style=flat-square)
 ![Recharts](https://img.shields.io/badge/Recharts-22B5BF?style=flat-square)
 ![jsPDF](https://img.shields.io/badge/jsPDF-B30B00?style=flat-square)
@@ -111,7 +94,7 @@ A public health reporting system supporting patient data collection, monitoring,
 ![Maestro](https://img.shields.io/badge/Maestro-635BFF?style=flat-square)
 ![Sentry](https://img.shields.io/badge/Sentry-362D59?style=flat-square&logo=sentry&logoColor=white)
 
-**IDEs & Development Tools**  
+**Development Tools**  
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=flat-square)
 ![Antigravity IDE](https://img.shields.io/badge/Antigravity_IDE-1A1A1A?style=flat-square)
 
@@ -125,58 +108,64 @@ A public health reporting system supporting patient data collection, monitoring,
 
 ---
 
-### 🏗️ Software Architecture
+### Software Architecture
 
-![Modular Architecture](https://img.shields.io/badge/Modular_Architecture-475569?style=flat-square)
-![Monorepo Architecture](https://img.shields.io/badge/Monorepo_Architecture-475569?style=flat-square)
-![Client Server Architecture](https://img.shields.io/badge/Client_Server_Architecture-475569?style=flat-square)
-![RBAC](https://img.shields.io/badge/Role_Based_Access_Control-475569?style=flat-square)
-![Responsive Design](https://img.shields.io/badge/Responsive_Design-475569?style=flat-square)
+- Modular Architecture
+- Monorepo Architecture
+- Client-Server Architecture
+- Role-Based Access Control (RBAC)
+- Responsive Web Design
 
----
+### Software Development Practices
 
-### 📋 Software Development Practices
-
-![Development Planning](https://img.shields.io/badge/Development_Planning-475569?style=flat-square)
-![Requirements Gathering](https://img.shields.io/badge/Requirements_Gathering-475569?style=flat-square)
-![Technical Documentation](https://img.shields.io/badge/Technical_Documentation-475569?style=flat-square)
-![Version Control](https://img.shields.io/badge/Version_Control-475569?style=flat-square)
-![Software Testing](https://img.shields.io/badge/Software_Testing-475569?style=flat-square)
-![Deployment Planning](https://img.shields.io/badge/Deployment_Planning-475569?style=flat-square)
-![Database Migrations](https://img.shields.io/badge/Database_Migrations-475569?style=flat-square)
-![API Integration](https://img.shields.io/badge/API_Integration-475569?style=flat-square)
-![AI Assisted Development](https://img.shields.io/badge/AI_Assisted_Development-475569?style=flat-square)
+- Development Planning
+- Requirements Gathering
+- Technical Documentation
+- Version Control
+- Software Testing
+- Deployment Planning
+- Database Migrations
+- API Integration
+- AI-Assisted Development
 
 ---
 
-### 📫 Let's Connect
+### Connect
 
-<a href="mailto:justice.belleza@icloud.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=icloud&logoColor=white" /></a>
+<a href="mailto:justice.belleza@icloud.com"><img src="https://img.shields.io/badge/Email-333333?style=flat-square&logo=icloud&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/justice-belleza-77292a245/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
 
 <br><br>
-<img src="https://komarev.com/ghpvc/?username=JusticeBelleza&label=Profile%20Views&style=flat-square&color=blue" />
+<img src="https://komarev.com/ghpvc/?username=JusticeBelleza&label=Profile%20Views&style=flat-square&color=grey" />
 
 ---
 
 <details>
-<summary>🖥️ Workspace & Hardware Setup</summary>
+<summary><b>Workspace & Hardware Setup</b></summary>
 <br>
 
 **System Specifications**
-- **CPU:** AMD Ryzen 5 5600X
-- **GPU:** MSI GeForce RTX 4070 Ti Ventus 3X 12GB
-- **Motherboard:** MSI B550M PRO-VDH WIFI
-- **RAM:** 32GB
-- **Storage:** 1TB SSD
-- **Cooling:** MSI MAG CoreLiquid M240
-- **PSU:** MSI MAG A750GL PCIe 5.1 80+ Gold
-- **OS:** Windows 11 Pro
+
+| Component | Specification |
+|---|---|
+| CPU | AMD Ryzen 5 5600X |
+| GPU | MSI GeForce RTX 4070 Ti Ventus 3X 12GB |
+| Motherboard | MSI B550M PRO-VDH WIFI |
+| RAM | 32GB |
+| Storage | 1TB SSD |
+| Cooling | MSI MAG CoreLiquid M240 |
+| PSU | MSI MAG A750GL PCIe 5.1 80+ Gold |
+| OS | Windows 11 Pro |
 
 **Peripherals**
-- **Monitor:** ASUS ROG Strix 24"
-- **Mouse:** Logitech G Pro X Superlight
-- **Keyboard:** Aula F75
-- **Audio:** Razer Barracuda X Chroma (Headset) | Ugreen (Microphone) | Xiaomi Desktop (Speakers)
+
+| Component | Specification |
+|---|---|
+| Monitor | ASUS ROG Strix 24" |
+| Mouse | Logitech G Pro X Superlight |
+| Keyboard | Aula F75 |
+| Headset | Razer Barracuda X Chroma |
+| Microphone | Ugreen |
+| Speakers | Xiaomi Desktop |
 
 </details>
