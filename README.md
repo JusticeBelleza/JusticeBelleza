@@ -20,7 +20,7 @@
 |---|---|
 | **Zippi Delivery** | Multi-platform delivery ecosystem for customers, riders, merchants, and administrators. |
 | **Tricore Medical Supply** | B2B order management, inventory, warehouse fulfillment, and delivery management system. |
-| **ClearTrack** | Government document tracking, routing, custody management, and accountability system. |
+| **FileTrackr** | Government document tracking, routing, custody management, and accountability system. |
 | **ABTCRS** | Animal Bite Treatment Center Reporting System. Contributed to system maintenance, optimization, and reporting compliance. |
 
 ---
