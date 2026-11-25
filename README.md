@@ -8,7 +8,7 @@
 ### About Me
 
 - **Education:** Bachelor of Science in Information Technology (BSIT) — approved for graduation. Previously earned a degree in Hospitality Management, combining technical knowledge with a customer-first approach.
-- **Current Focus:** Freelance IT Consultant focused on developing practical, reliable, and user-focused software solutions.
+- **Current Focus:** Freelance IT Consultant focused on developing practical, reliable, secure, and user-focused software solutions.
 - **Civil Service Eligibility:** Career Service Professional Eligibility (Civil Service Commission, Philippines).
 - **Interests:** Technology, software development, Dota 2, Valorant, and Flyff Universe.
 
@@ -113,7 +113,6 @@
 - Modular Architecture
 - Monorepo Architecture
 - Client-Server Architecture
-- Role-Based Access Control (RBAC)
 - Responsive Web Design
 
 ### Software Development Practices
@@ -127,6 +126,20 @@
 - Database Migrations
 - API Integration
 - AI-Assisted Development
+
+### Application Security & Secure Development
+
+- Authentication & Authorization
+- JSON Web Token (JWT) Validation
+- Role-Based Access Control (RBAC)
+- Row-Level Security (RLS)
+- API Security & Request Validation
+- Dependency Security Auditing
+- Vulnerability Assessment & Remediation
+- Session Management & Isolation
+- Authentication & Authorization Testing
+- Data Privacy & Consent Management
+- Secure Database Migrations
 
 ---
 
